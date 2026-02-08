@@ -28,7 +28,7 @@ MachineType must be one of the following types:
 }
 
 variable "MarketplaceImageName" {
-	default = "ixload-cloud-gcp-11-00-0-320"
+	default = "ixload-cloud-gcp-26-0-0-94-security-update-2"
 	description = "Identifier for image"
 	type = string
 }
